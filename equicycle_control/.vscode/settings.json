@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoGuessEncoding": true,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "smooth",
+    "files.encoding": "utf8",
+    "files.associations": {
+        "main.h": "c"
+    }
+}

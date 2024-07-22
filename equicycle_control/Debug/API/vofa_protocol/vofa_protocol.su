@@ -1,0 +1,8 @@
+../API/vofa_protocol/vofa_protocol.c:10:13:float_to_bytes	24	static
+../API/vofa_protocol/vofa_protocol.c:20:13:create_byte_stream	32	static
+../API/vofa_protocol/vofa_protocol.c:31:6:vofa_one	24	static
+../API/vofa_protocol/vofa_protocol.c:45:6:vofa_two	40	static
+../API/vofa_protocol/vofa_protocol.c:61:6:vofa_three	56	static
+../API/vofa_protocol/vofa_protocol.c:77:6:vofa_four	64	static
+../API/vofa_protocol/vofa_protocol.c:91:6:vofa_five	80	static
+../API/vofa_protocol/vofa_protocol.c:109:16:createFloatByteStream	32	static

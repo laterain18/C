@@ -1,0 +1,6 @@
+../API/wit_imu/wit_imu.c:7:15:calculateChecksum	2
+../API/wit_imu/wit_imu.c:16:5:parseAccelData	2
+../API/wit_imu/wit_imu.c:32:5:parseGyroData	2
+../API/wit_imu/wit_imu.c:47:5:parseAngleData	2
+../API/wit_imu/wit_imu.c:62:5:parseMagData	2
+../API/wit_imu/wit_imu.c:79:5:parseIMUData	3

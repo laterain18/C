@@ -1,0 +1,4 @@
+../control/balance/balance.c:8:6:balanceparam_init	1
+../control/balance/balance.c:28:7:Bal_Ang_Control	3
+../control/balance/balance.c:44:7:Bal_Ang_Vel_Control	1
+../control/balance/balance.c:59:7:balance	4
